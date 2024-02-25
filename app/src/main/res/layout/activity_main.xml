@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="#023C40"
     tools:context=".MainActivity">
-
     <ScrollView
         android:layout_width="375dp"
         android:layout_height="580dp"
